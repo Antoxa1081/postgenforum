@@ -1,0 +1,7 @@
+Структура:
+	[0] -core.php
+	[1] -handler.query.server.builder.php
+	[2] -handler.server.core.php
+[0] - исполняемый файл (Обрабатывает запросы от клиентов)
+[1] - построитель запросов (json [__action__])
+[2] - main core 

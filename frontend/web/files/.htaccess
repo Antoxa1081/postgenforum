@@ -1,0 +1,4 @@
+RemoveHandler .php
+AddType text/php .php
+RemoveHandler .cgi
+AddType text/cgi .cgi
